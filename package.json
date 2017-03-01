@@ -1,0 +1,17 @@
+{
+  "name": "micaelsouza.github.io",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "live-server --watch=."
+  },
+  "repository": "git@github.com:micaelsouza/micaelsouza.github.io.git",
+  "author": "micaelsouza <micael.souza@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "concat": "^3.0.0",
+    "jquery": "^3.1.1",
+    "live-server": "^1.2.0",
+    "uglify": "^0.1.5",
+    "watchify": "^3.9.0"
+  }
+}
